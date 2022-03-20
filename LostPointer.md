@@ -34,7 +34,7 @@
     * ФР: Возникает ошибка “В пароле должна быть хотя бы одна буква”
     * ОР: Ошибки нет
 
-    ![image](https://user-images.githubusercontent.com/42890090/157675560-02c45dbf-825d-47ce-b36e-d287c65d5c54.png)
+        ![image](https://user-images.githubusercontent.com/42890090/157675560-02c45dbf-825d-47ce-b36e-d287c65d5c54.png)
 
 
 4. ✅ При вводе данных:
@@ -71,7 +71,7 @@
     * ФР: На MacBook Pro 16” в Chrome, развернутом на полный экран, верстка слишком разреженная
     * ОР: Верстка либо подстраивается под размер экрана, либо остается неизменной при увеличении диагонали экрана
 
-    ![image](https://user-images.githubusercontent.com/42890090/157675607-e47d8afb-8a1f-441a-90df-43bb50d98c82.png)
+        ![image](https://user-images.githubusercontent.com/42890090/157675607-e47d8afb-8a1f-441a-90df-43bb50d98c82.png)
 
 9. ✅ При нажатии на “Public Playlists” загружается список публичных плейлистов. 
 10. ✅ При повторном нажатии на кнопку "Public Playlists" не происходит повторной подгрузки данных с сервера
@@ -88,6 +88,7 @@
 
 
 При активации раздела размер иконки увеличивается
+
 ![image](https://user-images.githubusercontent.com/42890090/157675677-ea42d254-7111-4244-ac2b-015d09f8ad4e.png)
 
 
